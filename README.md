@@ -9,3 +9,10 @@
 
 ![image](https://user-images.githubusercontent.com/91556752/156233614-3c759154-42fe-43f6-9282-eec94ecbb404.png)
 
+4- Instalar git
+
+
+5 - Instalar Docker (nivel ninja utilizando el script de bash obtenido de get-docker.com)
+
+
+6 - Repetir los pasos de la en entrega del Gilded Rose dockerizada
